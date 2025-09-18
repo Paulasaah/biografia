@@ -12,6 +12,8 @@
     <p>Nací en la <em>ciudad bonita</em>, Bucaramanga, el 5 de enero del 2004. Mis padres, <strong>Martha</strong> y <strong>Germán</strong>, me recibieron con amor y entusiasmo, acompañados de mi hermano <strong>Andrés Felipe</strong>, cariñosamente llamado <em>Pipe</em>. Desde pequeña crecí en un hogar lleno de cariño, valores y apoyo incondicional.</p>
     <h2>Mi Niñez</h2>
     <p>Durante mi infancia viví rodeada de amor y cuidados. Mi hermano se convirtió en mi compañero inseparable de juegos y aventuras, mientras que mis padres y mi nana me guiaron con paciencia y ternura. En esos años descubrí la importancia de la familia y aprendí valores como la solidaridad y el respeto, que me han acompañado hasta el día de hoy.</p>
+    <h2>Mi Adolescencia</h2>
+    <p>Mi adolescencia estuvo marcada por el descubrimiento de mis intereses y pasiones. En el colegio me destaqué por mi dedicación y responsabilidad, lo que me permitió alcanzar logros académicos importantes. También fue una etapa de autoconocimiento, en la que aprendí a superar retos, a confiar en mis capacidades y a valorar aún más la importancia de los amigos y el trabajo en equipo.</p>
 
 </body>
 </html>
