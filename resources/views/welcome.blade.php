@@ -28,5 +28,6 @@
 
     <h3>habilidades</h3>
     <p>mi primera habilidad es Diseñar.</p>
+    <p>mi segunda habilidad es Estudiar.</p>
 </body>
 </html>
