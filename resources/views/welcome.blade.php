@@ -20,5 +20,6 @@
     <p>En el futuro aspiro a convertirme en una ingeniera de sistemas reconocida por mis aportes en el campo tecnológico. Sueño con crear proyectos que tengan un impacto positivo en la sociedad, especialmente en áreas como la educación y la innovación digital. Mis metas incluyen seguir aprendiendo, realizar estudios de posgrado y trabajar en proyectos que combinen creatividad con soluciones prácticas para los problemas del mundo actual.</p>
 
     <p>Me gradue del Colegio universitario del socorro</p>
+    <p>Estoy estudiando Ingeniería de sistemas</p>
 </body>
 </html>
