@@ -25,5 +25,8 @@
     <h3>Centro de Atención Telefónica</h3>
     <p>Mi primer empleo en servicio al cliente fue en un <strong>centro de atención telefónica</strong>, donde me encargaba de asistir a los clientes que tenían dudas o problemas relacionados con productos y servicios. A través de esta experiencia, aprendí la importancia de ser paciente, escuchar activamente y dar soluciones efectivas a los problemas que los clientes presentaban. Este puesto me permitió desarrollar habilidades de comunicación y mejorar mi capacidad de resolución de problemas en tiempo real.</p>
 
+
+    <h3>habilidades</h3>
+    <p>mi primera habilidad es Diseñar.</p>
 </body>
 </html>
