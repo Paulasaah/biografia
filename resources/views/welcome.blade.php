@@ -18,5 +18,12 @@
     <p>Hoy en día soy estudiante de <strong>Ingeniería de Sistemas</strong>, carrera que me apasiona porque me permite desarrollar mi creatividad a través de la tecnología. Dedico mi tiempo al estudio, a la investigación de nuevas herramientas digitales y al fortalecimiento de mis habilidades como futura profesional. Además, disfruto compartir momentos con mis amigos y practicar deportes como el tenis, que me ayudan a mantener el equilibrio entre lo académico y lo personal.</p>
     <h2>Mis Aspiraciones y Metas</h2>
     <p>En el futuro aspiro a convertirme en una ingeniera de sistemas reconocida por mis aportes en el campo tecnológico. Sueño con crear proyectos que tengan un impacto positivo en la sociedad, especialmente en áreas como la educación y la innovación digital. Mis metas incluyen seguir aprendiendo, realizar estudios de posgrado y trabajar en proyectos que combinen creatividad con soluciones prácticas para los problemas del mundo actual.</p>
+    <!-- Rama Experiencia Laboral (Servicio al Cliente) -->
+    <h2>Experiencia Laboral en Servicio al Cliente</h2>
+
+    <!-- Experiencia 1: Centro de Atención Telefónica -->
+    <h3>Centro de Atención Telefónica</h3>
+    <p>Mi primer empleo en servicio al cliente fue en un <strong>centro de atención telefónica</strong>, donde me encargaba de asistir a los clientes que tenían dudas o problemas relacionados con productos y servicios. A través de esta experiencia, aprendí la importancia de ser paciente, escuchar activamente y dar soluciones efectivas a los problemas que los clientes presentaban. Este puesto me permitió desarrollar habilidades de comunicación y mejorar mi capacidad de resolución de problemas en tiempo real.</p>
+
 </body>
 </html>
