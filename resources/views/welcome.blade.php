@@ -18,5 +18,7 @@
     <p>Hoy en día soy estudiante de <strong>Ingeniería de Sistemas</strong>, carrera que me apasiona porque me permite desarrollar mi creatividad a través de la tecnología. Dedico mi tiempo al estudio, a la investigación de nuevas herramientas digitales y al fortalecimiento de mis habilidades como futura profesional. Además, disfruto compartir momentos con mis amigos y practicar deportes como el tenis, que me ayudan a mantener el equilibrio entre lo académico y lo personal.</p>
     <h2>Mis Aspiraciones y Metas</h2>
     <p>En el futuro aspiro a convertirme en una ingeniera de sistemas reconocida por mis aportes en el campo tecnológico. Sueño con crear proyectos que tengan un impacto positivo en la sociedad, especialmente en áreas como la educación y la innovación digital. Mis metas incluyen seguir aprendiendo, realizar estudios de posgrado y trabajar en proyectos que combinen creatividad con soluciones prácticas para los problemas del mundo actual.</p>
+
+    <p>Me gradue del Colegio universitario del socorro</p>
 </body>
 </html>
