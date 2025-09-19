@@ -22,6 +22,7 @@
     <h2>Experiencia Laboral en Servicio al Cliente</h2>
 
     <p>seugnda experiencia laboral es cajera.</p>
+    <p>Tercera experiencia laboral es salvavidas</p>
 
     <!-- Experiencia 1: Centro de Atención Telefónica -->
     <h3>Centro de Atención Telefónica</h3>
